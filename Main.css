@@ -1,0 +1,47 @@
+#body {
+  color: black;
+}
+
+#oButton {
+  outline: none;
+  border: none;
+  background: rgba(76, 175, 80, 0);
+  font-family: Calligraffitti;
+  font-style: italic;
+  font-size: 100%;
+  border-radius: 10px;
+}
+
+.main {
+  margin-top: 10%;
+}
+
+.button {
+  outline: none;
+  border: none;
+  background: rgba(76, 175, 80, 0);
+  font-family: Calligraffitti;
+  font-style: italic;
+  font-size: 140%;
+  position: relative;
+  top:5px;
+  border-radius: 20px;
+}
+
+#text {
+  font-family: Calligraffitti;
+  font-size: 200%;
+  position: relative;
+  top: 10px;
+}
+
+#author {
+  position: relative;
+  top: 5px;
+  font-family: Calligraffitti;
+}
+
+#image {
+  max-width: 100%;
+   max-height:80%;
+}
